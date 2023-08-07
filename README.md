@@ -16,5 +16,5 @@
 
 Learning is a never-ending process, the more you know, the more you don't know.
 
-| <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lywedo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/lywedo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=buefy&hide_border=true&locale=en" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<a href="https://github.com/lywedo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=buefy&hide_border=true&locale=en" /></a> 
