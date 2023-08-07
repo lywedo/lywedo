@@ -17,4 +17,7 @@
 Learning is a never-ending process, the more you know, the more you don't know.
 
 
-<a href="https://github.com/lywedo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=buefy&hide_border=true&locale=en" /></a> 
+| <a href="https://github.com/lywedo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lywedo&rank_icon=github&hide=contribs&theme=merko&show=reviews,discussions_started,discussions_answered&show_icons=true&show_owner=true" /></a> | <a href="https://github.com/lywedo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=donut-vertical" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
