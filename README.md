@@ -4,7 +4,6 @@
 
 - [✨My Index](https://green-field-07970c200.3.azurestaticapps.net/)
 - [✍️My blog](https://linyu.art/)
-- [✍️My Resume](https://vpn.linyu.art/resume.pdf)
 
 ### Industry awareness
 
