@@ -2,7 +2,8 @@
 
   A full-stack software engineer who loves to tinker，good at C#，.NET ，.NET Core，React，TypeScript，Unity, VR/AR.
 
-- [✨My Index](https://green-field-07970c200.3.azurestaticapps.net/)
+- [✨My Index](https://green-sky-08c907b00.4.azurestaticapps.net/)
+- [✨Mobil aigc](https://white-island-05ab23a00.4.azurestaticapps.net/)
 - [✍️My blog](https://linyu.art/)
 
 ### Industry awareness
