@@ -146,9 +146,3 @@
 
 </p>
 
-
-
-
-
- <a href="https://github.com/lywedo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=donut-vertical" /></a> 
-
