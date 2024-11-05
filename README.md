@@ -1,5 +1,8 @@
 ### Introduction
 <h1>Hi 👋, I'm Andrew Lin</h1>
+              🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴
+
+<h2 align="center">Hi, Hola, Bonjour, Hallo, Ciao, こんにちは, 안녕하세요, 你好, Привет, Merhaba, مرحبا </h2>
  A full-stack software engineer who loves to tinker，good at C#，.NET ，.NET Core，React，TypeScript，Unity, VR/AR.
 
 - [✨My Index](https://green-sky-08c907b00.4.azurestaticapps.net/)
