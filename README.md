@@ -6,8 +6,6 @@
  A full-stack software engineer who loves to tinker，good at C#，.NET ，.NET Core，React，TypeScript，Unity, VR/AR.
 
 - [✨My Index](https://green-sky-08c907b00.4.azurestaticapps.net/)
-- [✨Mobil aigc](https://white-island-05ab23a00.4.azurestaticapps.net/)
-- [✍️My blog](https://linyu.art/)
 
 <h2>🛠 Skills</h2>
 <p>
@@ -132,10 +130,6 @@
 </a>
 
 </p>
-
-<a href="https://github.com/lywedo" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=lywedo&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
 
 <h2>📪 Contact me</h2>
 <p>
