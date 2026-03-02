@@ -1,32 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=Andrew%20Lin&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20Unity%20%E2%80%A2%20VR/AR&descSize=16&descColor=e4e4e7&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e11d48,50:dc2626,100:ff2d55&height=200&section=header&text=Andrew%20Lin&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=e11d48&strokeWidth=1" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&repeat=true&width=450&height=25&lines=.NET+%26+C%23+Specialist;React+%26+TypeScript+Developer;Unity+%26+VR%2FAR+Creator;Problem+Solver" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=FB7185&center=true&vCenter=true&repeat=true&width=520&height=28&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer;%24+cat+skills.txt+%E2%86%92+.NET+%7C+React+%7C+Unity;%24+ls+%2Fpassion+%E2%86%92+VR%2FAR+%7C+Mixed+Reality;%24+uptime+%E2%86%92+6%2B+years+shipping+code" alt="Typing SVG" />
 
-Full-stack engineer turning complex problems into elegant solutions — from enterprise APIs to immersive VR.
+<br>
 
-[<img src="https://img.shields.io/badge/View_My_Index-%236366f1?style=for-the-badge&logo=azure-devops&logoColor=white" />](https://green-sky-08c907b00.4.azurestaticapps.net/)
+<img src="https://komarev.com/ghpvc/?username=lywedo&style=for-the-badge&color=e11d48&label=PROFILE+VIEWS" height="25" />
 &nbsp;
-[<img src="https://img.shields.io/badge/Get_In_Touch-%23333?style=for-the-badge&logo=maildotru&logoColor=818cf8" />](#connect)
+<img src="https://img.shields.io/github/followers/lywedo?style=for-the-badge&color=dc2626&labelColor=0a0a0a&label=Followers" height="25" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/lywedo?style=for-the-badge&color=ff2d55&labelColor=0a0a0a&label=Stars&affiliations=OWNER" height="25" />
 
 </div>
 
 ---
 
-```typescript
-const andrew = {
+```js
+// $ node andrew.js
+const dev = {
   name: "Andrew Lin",
-  role: "Full-Stack Engineer",
-  languages: ["C#", "TypeScript", "JavaScript", "Kotlin"],
-  passion: "Building the future"
+  stack: { lang: ["C#", "TypeScript", "JavaScript", "Kotlin"],
+           front: ["React", "Next.js", "Angular", "Tailwind"],
+           back: [".NET Core", "Node.js", "Express", "REST"],
+           data: ["SQL Server", "PostgreSQL", "MongoDB", "Redis"],
+           infra: ["Azure", "Docker", "Linux", "CI/CD"],
+           xr: ["Unity", "VR/AR", "Mixed Reality", "3D"] },
+  motto: () => "Build fast. Ship faster. Break nothing.",
 };
 ```
 
+---
+
 <div align="center">
 
-| **6+** Years | **20+** Technologies | **5+** Platforms |
-|:---:|:---:|:---:|
+**`[ TECH STACK ]`**
+
+| Frontend | Backend | Data | Infra | XR & Mobile |
+|:---:|:---:|:---:|:---:|:---:|
+| [![React](https://skillicons.dev/icons?i=react)](#) | [![CS](https://skillicons.dev/icons?i=cs)](#) | [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](#) | [![Azure](https://skillicons.dev/icons?i=azure)](#) | [![Unity](https://skillicons.dev/icons?i=unity)](#) |
+| [![Next.js](https://skillicons.dev/icons?i=nextjs)](#) | [![.NET](https://skillicons.dev/icons?i=dotnet)](#) | [![MongoDB](https://skillicons.dev/icons?i=mongo)](#) | [![Docker](https://skillicons.dev/icons?i=docker)](#) | [![Kotlin](https://skillicons.dev/icons?i=kotlin)](#) |
+| [![Angular](https://skillicons.dev/icons?i=angular)](#) | [![Node](https://skillicons.dev/icons?i=nodejs)](#) | [![Redis](https://skillicons.dev/icons?i=redis)](#) | [![Linux](https://skillicons.dev/icons?i=linux)](#) | [![Android](https://skillicons.dev/icons?i=androidstudio)](#) |
+| [![TypeScript](https://skillicons.dev/icons?i=ts)](#) | [![Express](https://skillicons.dev/icons?i=express)](#) | [![MySQL](https://skillicons.dev/icons?i=mysql)](#) | [![Git](https://skillicons.dev/icons?i=git)](#) | [![React Native](https://skillicons.dev/icons?i=react)](#) |
+| [![Tailwind](https://skillicons.dev/icons?i=tailwind)](#) | | [![SQLite](https://skillicons.dev/icons?i=sqlite)](#) | [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](#) | |
 
 </div>
 
@@ -34,36 +50,9 @@ const andrew = {
 
 <div align="center">
 
-**Frontend** &nbsp;
-[![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-%23000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+**`[ TROPHY CASE ]`**
 
-**Backend** &nbsp;
-[![C#](https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=csharp&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express-%23000?style=flat-square&logo=express&logoColor=white)](#)
-
-**Data** &nbsp;
-[![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/Postgres-%234169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/Mongo-%2347A248?style=flat-square&logo=mongodb&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)](#)
-
-**Infra** &nbsp;
-[![Azure](https://img.shields.io/badge/Azure-%230078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)](#)
-[![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)](#)
-
-**XR & Mobile** &nbsp;
-[![Unity](https://img.shields.io/badge/Unity-%23000?style=flat-square&logo=unity&logoColor=white)](#)
-[![VR/AR](https://img.shields.io/badge/VR%2FAR-%236366f1?style=flat-square&logo=oculus&logoColor=white)](#)
-[![React Native](https://img.shields.io/badge/RN-%2361DAFB?style=flat-square&logo=react&logoColor=black)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white)](#)
+<img src="https://github-profile-trophy.vercel.app/?username=lywedo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
 
 </div>
 
@@ -71,20 +60,16 @@ const andrew = {
 
 <table><tr>
 <td width="33%" valign="top">
-<h3>Personal Index</h3>
-Curated hub for all projects & profiles. Azure Static Web Apps.<br>
-<code>React</code> <code>Azure</code> <code>TS</code><br>
-<a href="https://green-sky-08c907b00.4.azurestaticapps.net/">Visit &rarr;</a>
+<h3 align="center">Personal Index</h3>
+<p align="center">Curated hub for all projects & profiles<br><code>React</code> <code>Azure</code> <code>TS</code><br><br><a href="https://green-sky-08c907b00.4.azurestaticapps.net/"><img src="https://img.shields.io/badge/LIVE_DEMO-%23e11d48?style=for-the-badge&logo=vercel&logoColor=white" /></a></p>
 </td>
 <td width="33%" valign="top">
-<h3>Full-Stack Apps</h3>
-Enterprise web apps with .NET Core, React, and SQL Server.<br>
-<code>.NET</code> <code>React</code> <code>SQL</code>
+<h3 align="center">Full-Stack Apps</h3>
+<p align="center">Enterprise-grade .NET + React + SQL<br><code>.NET</code> <code>React</code> <code>SQL</code></p>
 </td>
 <td width="33%" valign="top">
-<h3>VR / AR</h3>
-Immersive mixed-reality apps built with Unity.<br>
-<code>Unity</code> <code>C#</code> <code>VR/AR</code>
+<h3 align="center">VR / AR</h3>
+<p align="center">Immersive mixed-reality with Unity<br><code>Unity</code> <code>C#</code> <code>XR</code></p>
 </td>
 </tr></table>
 
@@ -92,19 +77,29 @@ Immersive mixed-reality apps built with Unity.<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lywedo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&icon_color=6366f1&text_color=e4e4e7&ring_color=6366f1" height="150" />
+**`[ METRICS ]`**
+
+<img src="https://github-readme-stats.vercel.app/api?username=lywedo&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=fb7185&icon_color=e11d48&text_color=e8e0e0&ring_color=e11d48&rank_icon=percentile" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&text_color=e4e4e7" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=fb7185&text_color=e8e0e0&langs_count=8" height="160" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lywedo&hide_border=true&background=050505&ring=e11d48&fire=ff2d55&currStreakLabel=fb7185&sideLabels=fb7185&currStreakNum=e8e0e0&sideNums=e8e0e0&dates=6b5555&stroke=e11d4830" height="160" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lywedo&bg_color=050505&color=fb7185&line=e11d48&point=ff2d55&area=true&area_color=e11d48&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
 ---
 
-<h3 id="connect" align="center">Connect</h3>
+<h3 id="connect" align="center"><code>$ ssh andrew@connect</code></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yu-lin-andrew"><img src="https://img.shields.io/badge/LinkedIn-%230A77B6?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;
-<a href="https://github.com/lywedo"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>&nbsp;
-<a href="https://githubbio.com/weChat/dx5qtt1"><img src="https://img.shields.io/badge/WeChat-%2307C160?style=for-the-badge&logo=wechat&logoColor=white" height="30" /></a>
+<a href="https://www.linkedin.com/in/yu-lin-andrew"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/lywedo"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;
+<a href="https://githubbio.com/weChat/dx5qtt1"><img src="https://img.shields.io/badge/WeChat-%23e11d48?style=for-the-badge&logo=wechat&logoColor=white" height="40" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,50:dc2626,100:ff2d55&height=80&section=footer" width="100%" />
