@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=Andrew%20Lin&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=6366f1&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e11d48,50:dc2626,100:ff2d55&height=200&section=header&text=Andrew%20Lin&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=e11d48&strokeWidth=1" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=520&height=28&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer;%24+cat+skills.txt+%E2%86%92+.NET+%7C+React+%7C+Unity;%24+ls+%2Fpassion+%E2%86%92+VR%2FAR+%7C+Mixed+Reality;%24+uptime+%E2%86%92+6%2B+years+shipping+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=FB7185&center=true&vCenter=true&repeat=true&width=520&height=28&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer;%24+cat+skills.txt+%E2%86%92+.NET+%7C+React+%7C+Unity;%24+ls+%2Fpassion+%E2%86%92+VR%2FAR+%7C+Mixed+Reality;%24+uptime+%E2%86%92+6%2B+years+shipping+code" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=lywedo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" height="25" />
+<img src="https://komarev.com/ghpvc/?username=lywedo&style=for-the-badge&color=e11d48&label=PROFILE+VIEWS" height="25" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/lywedo?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=Followers" height="25" />
+<img src="https://img.shields.io/github/followers/lywedo?style=for-the-badge&color=dc2626&labelColor=0a0a0a&label=Followers" height="25" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/lywedo?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars&affiliations=OWNER" height="25" />
+<img src="https://img.shields.io/github/stars/lywedo?style=for-the-badge&color=ff2d55&labelColor=0a0a0a&label=Stars&affiliations=OWNER" height="25" />
 
 </div>
 
@@ -52,7 +52,7 @@ const dev = {
 
 **`[ TROPHY CASE ]`**
 
-<img src="https://github-profile-trophy.vercel.app/?username=lywedo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=lywedo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
 
 </div>
 
@@ -61,7 +61,7 @@ const dev = {
 <table><tr>
 <td width="33%" valign="top">
 <h3 align="center">Personal Index</h3>
-<p align="center">Curated hub for all projects & profiles<br><code>React</code> <code>Azure</code> <code>TS</code><br><br><a href="https://green-sky-08c907b00.4.azurestaticapps.net/"><img src="https://img.shields.io/badge/LIVE_DEMO-%236366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a></p>
+<p align="center">Curated hub for all projects & profiles<br><code>React</code> <code>Azure</code> <code>TS</code><br><br><a href="https://green-sky-08c907b00.4.azurestaticapps.net/"><img src="https://img.shields.io/badge/LIVE_DEMO-%23e11d48?style=for-the-badge&logo=vercel&logoColor=white" /></a></p>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">Full-Stack Apps</h3>
@@ -79,17 +79,17 @@ const dev = {
 
 **`[ METRICS ]`**
 
-<img src="https://github-readme-stats.vercel.app/api?username=lywedo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&icon_color=6366f1&text_color=e4e4e7&ring_color=6366f1&rank_icon=percentile" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=lywedo&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=fb7185&icon_color=e11d48&text_color=e8e0e0&ring_color=e11d48&rank_icon=percentile" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&text_color=e4e4e7&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lywedo&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=fb7185&text_color=e8e0e0&langs_count=8" height="160" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lywedo&theme=tokyonight&hide_border=true&background=0a0a0f&ring=6366f1&fire=a855f7&currStreakLabel=818cf8&sideLabels=818cf8&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=71717a" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lywedo&hide_border=true&background=050505&ring=e11d48&fire=ff2d55&currStreakLabel=fb7185&sideLabels=fb7185&currStreakNum=e8e0e0&sideNums=e8e0e0&dates=6b5555&stroke=e11d4830" height="160" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lywedo&bg_color=0a0a0f&color=818cf8&line=6366f1&point=a855f7&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lywedo&bg_color=050505&color=fb7185&line=e11d48&point=ff2d55&area=true&area_color=e11d48&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -99,7 +99,7 @@ const dev = {
 <p align="center">
 <a href="https://www.linkedin.com/in/yu-lin-andrew"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
 <a href="https://github.com/lywedo"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;
-<a href="https://githubbio.com/weChat/dx5qtt1"><img src="https://img.shields.io/badge/WeChat-%2307C160?style=for-the-badge&logo=wechat&logoColor=white" height="40" /></a>
+<a href="https://githubbio.com/weChat/dx5qtt1"><img src="https://img.shields.io/badge/WeChat-%23e11d48?style=for-the-badge&logo=wechat&logoColor=white" height="40" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,50:dc2626,100:ff2d55&height=80&section=footer" width="100%" />
