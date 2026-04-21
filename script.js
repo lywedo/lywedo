@@ -124,6 +124,7 @@
   const typedEl = document.getElementById('typed');
   const phrases = [
     '.NET & C# Specialist',
+    'Java & Python Engineer',
     'React & TypeScript Developer',
     'Unity & VR/AR Creator',
     'Full-Stack Engineer',

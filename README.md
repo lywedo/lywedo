@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e11d48,50:dc2626,100:ff2d55&height=200&section=header&text=Andrew%20Lin&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=e11d48&strokeWidth=1" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=FB7185&center=true&vCenter=true&repeat=true&width=520&height=28&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer;%24+cat+skills.txt+%E2%86%92+.NET+%7C+React+%7C+Unity;%24+ls+%2Fpassion+%E2%86%92+VR%2FAR+%7C+Mixed+Reality;%24+uptime+%E2%86%92+6%2B+years+shipping+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=FB7185&center=true&vCenter=true&repeat=true&width=560&height=28&lines=%24+whoami+%E2%86%92+Full-Stack+Engineer;%24+cat+skills.txt+%E2%86%92+C%23+%7C+Java+%7C+Python+%7C+TS;%24+ls+%2Fstack+%E2%86%92+.NET+%7C+React+%7C+Unity;%24+ls+%2Fpassion+%E2%86%92+VR%2FAR+%7C+Mixed+Reality;%24+uptime+%E2%86%92+6%2B+years+shipping+code" alt="Typing SVG" />
 
 <br>
 
@@ -20,7 +20,7 @@
 // $ node andrew.js
 const dev = {
   name: "Andrew Lin",
-  stack: { lang: ["C#", "TypeScript", "JavaScript", "Kotlin"],
+  stack: { lang: ["C#", "Java", "Python", "TypeScript", "JavaScript", "Kotlin"],
            front: ["React", "Next.js", "Angular", "Tailwind"],
            back: [".NET Core", "Node.js", "Express", "REST"],
            data: ["SQL Server", "PostgreSQL", "MongoDB", "Redis"],
@@ -36,13 +36,14 @@ const dev = {
 
 **`[ TECH STACK ]`**
 
-| Frontend | Backend | Data | Infra | XR & Mobile |
-|:---:|:---:|:---:|:---:|:---:|
-| [![React](https://skillicons.dev/icons?i=react)](#) | [![CS](https://skillicons.dev/icons?i=cs)](#) | [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](#) | [![Azure](https://skillicons.dev/icons?i=azure)](#) | [![Unity](https://skillicons.dev/icons?i=unity)](#) |
-| [![Next.js](https://skillicons.dev/icons?i=nextjs)](#) | [![.NET](https://skillicons.dev/icons?i=dotnet)](#) | [![MongoDB](https://skillicons.dev/icons?i=mongo)](#) | [![Docker](https://skillicons.dev/icons?i=docker)](#) | [![Kotlin](https://skillicons.dev/icons?i=kotlin)](#) |
-| [![Angular](https://skillicons.dev/icons?i=angular)](#) | [![Node](https://skillicons.dev/icons?i=nodejs)](#) | [![Redis](https://skillicons.dev/icons?i=redis)](#) | [![Linux](https://skillicons.dev/icons?i=linux)](#) | [![Android](https://skillicons.dev/icons?i=androidstudio)](#) |
-| [![TypeScript](https://skillicons.dev/icons?i=ts)](#) | [![Express](https://skillicons.dev/icons?i=express)](#) | [![MySQL](https://skillicons.dev/icons?i=mysql)](#) | [![Git](https://skillicons.dev/icons?i=git)](#) | [![React Native](https://skillicons.dev/icons?i=react)](#) |
-| [![Tailwind](https://skillicons.dev/icons?i=tailwind)](#) | | [![SQLite](https://skillicons.dev/icons?i=sqlite)](#) | [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](#) | |
+<table>
+<tr><td><code>&nbsp;Languages&nbsp;&nbsp;</code></td><td><a href="#"><img src="https://skillicons.dev/icons?i=cs,java,py,ts,js,kotlin" /></a></td></tr>
+<tr><td><code>&nbsp;Frontend&nbsp;&nbsp;&nbsp;</code></td><td><a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" /></a></td></tr>
+<tr><td><code>&nbsp;Backend&nbsp;&nbsp;&nbsp;&nbsp;</code></td><td><a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" /></a></td></tr>
+<tr><td><code>&nbsp;Databases&nbsp;&nbsp;</code></td><td><a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite" /></a></td></tr>
+<tr><td><code>&nbsp;Cloud / Ops</code></td><td><a href="#"><img src="https://skillicons.dev/icons?i=azure,docker,linux,git,githubactions" /></a></td></tr>
+<tr><td><code>&nbsp;XR / Mobile</code></td><td><a href="#"><img src="https://skillicons.dev/icons?i=unity,androidstudio,kotlin" /></a></td></tr>
+</table>
 
 </div>
 
