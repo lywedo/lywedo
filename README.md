@@ -62,7 +62,7 @@ const dev = {
 <table><tr>
 <td width="33%" valign="top">
 <h3 align="center">Personal Index</h3>
-<p align="center">Curated hub for all projects & profiles<br><code>React</code> <code>Azure</code> <code>TS</code><br><br><a href="https://green-sky-08c907b00.4.azurestaticapps.net/"><img src="https://img.shields.io/badge/LIVE_DEMO-%23e11d48?style=for-the-badge&logo=vercel&logoColor=white" /></a></p>
+<p align="center">Curated hub for all projects & profiles<br><code>React</code> <code>Azure</code> <code>TS</code><br><br><a href="https://lywedo.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-%23e11d48?style=for-the-badge&logo=vercel&logoColor=white" /></a></p>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">Full-Stack Apps</h3>
